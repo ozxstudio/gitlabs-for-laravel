@@ -1,4 +1,5 @@
-# 🚀 Login Menu Member Area
+# 🚀 keterbatasan server atau rumah hosting tidak semua paket hosting menyediakan terminal ssh dan support untuk php, 
+#laravel hanya bisa dideploy dengan vps atau paket pro/exclusive. tidak tersedia untuk pake mini dan ekonomis, membatasi explorasi programmer tidak mampu publish dengan domain name pribadi.
 
 Login Menu Member Area adalah sistem autentikasi berbasis Laravel yang menyediakan fitur login, registrasi, reset password, dan manajemen akun dengan antarmuka sederhana.
 
