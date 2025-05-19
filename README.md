@@ -80,7 +80,7 @@ Didukung oleh:
 - 🏭 **Gudanglaba Zakat Fund**
 - 🫱🏽‍🫲🏽 Donatur pribadi & komunitas developer
 
-**Scan QR, kirim donasi, atau support di situs resmi: [gloria-investama.my.id](https://www.gloria-investama.my.id/)**
+**Scan QR, kirim donasi, atau support di situs resmi: [wpu.web.id](https://www.wpu.web.id/)**
 
 ---
 
